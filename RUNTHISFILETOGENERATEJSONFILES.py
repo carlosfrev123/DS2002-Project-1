@@ -2,6 +2,7 @@ import psycopg2
 import json
 
 # pSQL CONNECTION 
+# you can steal this password and user - ur gonna need it to re generate the JSON files
 conn = psycopg2.connect('postgres://wweudhzd:35Y84jhbI-O0xN-NvUd0NZOsPyyUWN7P@suleiman.db.elephantsql.com/wweudhzd')
 cursor = conn.cursor()
 
