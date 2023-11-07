@@ -1,0 +1,20 @@
+[
+    {
+        "year": 1990,
+        "average_emissions": 234.77608490566,
+        "average_temperature": 0.523333333333334,
+        "average_oil_price": 24.795833333333334
+    },
+    {
+        "year": 2005,
+        "average_emissions": 303.432938679245,
+        "average_temperature": 0.883333333333333,
+        "average_oil_price": 57.284166666666664
+    },
+    {
+        "year": 2017,
+        "average_emissions": 366.550226415094,
+        "average_temperature": 1.1975,
+        "average_oil_price": 51.855
+    }
+]

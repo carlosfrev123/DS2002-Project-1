@@ -1,0 +1,31 @@
+Data Project ds2002:
+
+Source SQL - parse into csv,excel,json - New DB - come up with SQL queries to prove what your initial point was.
+
+kaggle
+aws 
+
+lotta apis u can use
+
+Show how you used python to compile everything.
+SQL create DDL
+SQL Report
+
+Python 
+
+can also use mongo dont need to use SQL
+
+get 6 and 7 up and running before friday
+
+access data set from url
+grab data and put into into separate tables using SQL commands:
+we can call this data using an API were gonna need a key to access it -> refer to python and apis for this:
+Add tables to represent this data
+
+data must populate a json file -> so read tables to json file:
+
+ultimately we are making a python script to call this
+
+
+so access a database -> use an api t return that data in json and print into tables.
+Finally we can read that into a json file that will store this data
